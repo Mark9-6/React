@@ -1,2 +1,2 @@
 # React
-just react  :)
+React
